@@ -1,2 +1,3 @@
-# LovianConky
-conky config for linux
+# Lovian Dotfiles
+
+My Dotfiles
