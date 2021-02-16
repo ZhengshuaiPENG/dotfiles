@@ -10,7 +10,7 @@ git config --global user.name "ZhengshuaiPENG"
 git config --global http.proxy 'socks5://127.0.0.1:1086'
 git config --global https.proxy 'socks5://127.0.0.1:1086'
 
-# set git authentication caching 10000 hours
-git config --global credential.helper 'cache --timeout=36000000'
+# set git authentication caching under $HOME
+git config --global credential.helper store
 
 
